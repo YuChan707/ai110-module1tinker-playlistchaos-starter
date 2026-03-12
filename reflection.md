@@ -1,0 +1,3 @@
+- Search tab does not work ✅
+- Mood profile. hype min energy and chill max energy did not work properly ✅
+- Mood profile. Favorite game did not show right output 
